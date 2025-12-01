@@ -27,7 +27,7 @@ RECOMMENDATIONS
 
 
 ## RFM ANALYSIS OVERVIEW
-**RFM segmentation is a data-driven analysis grounded in behavioral economics, probability theory, and customer lifetime value modeling. It studies customers pruchase behavior then classifies the customers based on those behavioral patterns. RFM analyzes three key dimensions: 
+**RFM segmentation is a data-driven analysis grounded in behavioral economics, probability theory, and customer lifetime value modeling. It studies customers purchase behavior then classifies the customers based on those behavioral patterns. RFM analyzes three key dimensions: 
 **Recency (how recently they bought)** 
 **Frequency (how often they buy)**, and **Monetary value (how much they spend)**. By scoring customers on each factor, we can instantly spot our best customers, identify those at risk of churning, and find hidden growth levers**
 
